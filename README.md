@@ -1,6 +1,5 @@
 # Hi there. 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=liucoer)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=liucoer&left_color=green&right_color=red)
 
 ## About Me
 
@@ -14,25 +13,14 @@
 
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C/C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![C/C++](https://img.shields.io/badge/C/C++-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks and Libraries
-- ![Qt](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![OpenCv](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![ROS](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![FreeRTOS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![RT-Thread](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Tools and Platforms
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## Projects
-
-- **Project 1**: [Project Name](https://github.com/liucoer/project1)
-  - Description: Brief description of what the project is about and its key features.
-- **Project 2**: [Project Name](https://github.com/liucoer/project2)
-  - Description: Brief description of what the project is about and its key features.
+- ![Qt](![Static Badge](https://img.shields.io/badge/Qt-green?style=plastic)
+- ![OpenCv](https://img.shields.io/badge/OpenCv-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![ROS](https://img.shields.io/badge/ROS-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![RT-Thread](https://img.shields.io/badge/RT-Thread-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## GitHub Stats
 
