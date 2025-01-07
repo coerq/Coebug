@@ -1,6 +1,14 @@
 # Hi there. 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=liucoer)
 
+## GitHub Stats
+
+![liucoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=liucoer&show_icons=true&theme=radical)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liucoer)
+
 ## About Me
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
@@ -12,20 +20,15 @@
 ## Skills
 
 ### Programming Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C/C++](https://img.shields.io/badge/C/C++-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/python-3776ab?style=plastic&logo=python&logoColor=yellow)
+- ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-black?style=plastic&logo=C%2B%2B&logoColor=yellow)
 
 ### Frameworks and Libraries
-- ![Qt](![Static Badge](https://img.shields.io/badge/Qt-green?style=plastic)
-- ![OpenCv](https://img.shields.io/badge/OpenCv-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![ROS](https://img.shields.io/badge/ROS-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![RT-Thread](https://img.shields.io/badge/RT-Thread-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Qt](https://img.shields.io/badge/Qt-green?style=plastic)
+- ![OpenCv](https://img.shields.io/badge/OpenCv-White?style=plastic&logo=opencv&labelColor=black&color=red)
+- ![ROS](https://img.shields.io/badge/ROS-blue?style=plastic&logo=ros)
+- ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-white?style=plastic&color=Green)
+- ![RTThread](https://img.shields.io/badge/RTThread-blue?style=plastic)
 
-## GitHub Stats
 
-![liucoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=liucoer&show_icons=true&theme=radical)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liucoer)
 
