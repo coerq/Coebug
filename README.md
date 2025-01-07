@@ -1,4 +1,6 @@
-# Hi there, I'm liucoer 👋
+# Hi there. 👋
+![Profile Views](https://komarev.com/ghpvc/?username=liucoer)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ## About Me
 
@@ -36,4 +38,6 @@
 
 ![liucoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=liucoer&show_icons=true&theme=radical)
 
-## Connect with Me
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liucoer)
+
