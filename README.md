@@ -1,6 +1,6 @@
 # Hi there. 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=liucoer)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=liucoer&left_color=green&right_color=red)
 
 ## About Me
 
