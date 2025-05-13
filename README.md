@@ -1,9 +1,9 @@
 # Hi there. 👋
-![Profile Views](https://komarev.com/ghpvc/?username=liucoer)
+![Profile Views](https://komarev.com/ghpvc/?username=Coebug)
 
 ## GitHub Stats
 
-![liucoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=liucoer&show_icons=true&theme=radical)
+![Coebug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coebug&show_icons=true&theme=radical)
 
 ## About Me
 
