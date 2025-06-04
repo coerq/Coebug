@@ -1,9 +1,9 @@
 # Hi there. 👋
-![Profile Views](https://komarev.com/ghpvc/?username=Coebug)
+![Profile Views](https://komarev.com/ghpvc/?username=coerq)
 
 ## GitHub Stats
 
-![Coebug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coebug&show_icons=true&theme=radical)
+![coerq's GitHub stats](https://github-readme-stats.vercel.app/api?username=coerq&show_icons=true&theme=radical)
 
 ## About Me
 
